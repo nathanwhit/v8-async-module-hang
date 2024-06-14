@@ -1,3 +1,4 @@
+// Copyright 2024 Nathan Whitaker. All rights reserved. MIT license.
 export default async () => {
   // depends on `common.mjs` which contains a TLA
   const a = import("./a.mjs");
